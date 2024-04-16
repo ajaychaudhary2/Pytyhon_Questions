@@ -1,6 +1,6 @@
 ## Python Practice Questions Summary
 
-This README.md provides solutions to various Python practice questions, including:
+This README.md provides Summary of various Python practice questions that are in assignment.ipynb file, including:
 
 - **Empty List Representation**
 - **Assigning Value in a List**
